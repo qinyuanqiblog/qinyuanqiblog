@@ -10,4 +10,8 @@
 
 [![qinyuanqi's github stats](https://github-readme-stats.vercel.app/api?username=qinyuanqiblog&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+### ⚙️ &nbsp;GitHub Analytics
+
+![github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=qinyuanqiblog&layout=compact&theme=dracula)
+
 ![](https://profile-counter.glitch.me/qinyuanqiblog/count.svg)
